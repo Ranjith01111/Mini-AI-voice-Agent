@@ -1,0 +1,10 @@
+# Exclude environment variables and secrets from GitHub Copilot context
+.env
+
+# Exclude virtual environment
+venv/
+
+# Exclude Python cache files
+__pycache__/
+*.pyc
+*.pyo
